@@ -1,3 +1,11 @@
+# Bank lab!
+
+Today we're making a simple bank app! The desired functionality is described in the user stories below.
+
+Use the code in the `start` folder to get started.
+
+The other directories contain an example of the program with various stories finished. So use those if you get stuck.
+
 ## Userstories:
 
 - 0.) As a new user I want to be able to create a new account by giving my name and a pin, so I can start to organise my finances
