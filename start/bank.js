@@ -27,7 +27,7 @@ function login(){
   console.log('test')
 }
 
-// declare a function openAccount
+// @todo: declare a function openAccount
 // it should 
 // - ask use for their name and store it in a variable
 // - ask the user for a pin and store it in a variable

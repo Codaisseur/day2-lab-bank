@@ -26,7 +26,7 @@ const accounts = [
 let currentAccount = null
 
 function login(){
-  // let's implement the login function
+  // @todo: let's implement the login function
   // it should do:
   // ask a user for an id of his account (make sure to parseInt)
   // ask a user for his pin (make sure to parseInt)
