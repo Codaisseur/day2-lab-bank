@@ -23,15 +23,24 @@ const accounts = [
   },
 ]
 
+let currentAccount = null
+
 function login(){
-  console.log('test')
+  // let's implement the login function
+  // it should do:
+  // ask a user for an id of his account (make sure to parseInt)
+  // ask a user for his pin (make sure to parseInt)
+  // loop over the array to see if there is an account with that id
+  // check if the pin matches the pin of the account the use is trying to access
+  // if that is the case assign this account to the currentAccount variable
+  // let the user know login was succesfull
 }
 
 function createAccount(name, pin){
   const account = {
     id: accounts.length + 1, // not a unique number but it will do for now
-    name: name,
     pin: pin,
+    name: name,
     balance: 0
   }
 
